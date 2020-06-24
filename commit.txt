@@ -1,0 +1,63 @@
+commit 7802112fe4132ce915268d3cc294596e03e3885b
+Author: Jose <josht_87@hotmail.com>
+Date:   Tue Jun 23 17:37:19 2020 -0500
+
+    agregar archivo 2
+
+commit 179c18ffc53feffc0a89706c7fe01ecdc5ff8e22
+Author: Jose <josht_87@hotmail.com>
+Date:   Tue Jun 23 17:35:35 2020 -0500
+
+    agregar archivo comandos
+
+commit b80c411d08e3f583729d6116678a869a297834f4
+Merge: eab52bd f24e9af
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:42:34 2020 -0500
+
+    Merge branch 'master' of https://github.com/josht8716/operaciones_basicas
+    commit para juntar repositorios
+
+commit f24e9af5e2a62a92e83420de581dc5d7ca0b1de9
+Author: josht8716 <65928575+josht8716@users.noreply.github.com>
+Date:   Tue Jun 23 13:34:33 2020 -0500
+
+    Update README.md
+    
+    nueva descripcion
+
+commit 471e10ad5939d436b163756b8332f15e4b0e0416
+Author: josht8716 <65928575+josht8716@users.noreply.github.com>
+Date:   Tue Jun 23 13:31:50 2020 -0500
+
+    Initial commit
+
+commit eab52bddc0ea6b219190b013987cf54d9eff44fa
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:24:38 2020 -0500
+
+    fix archivo app.js
+
+commit ba0588c86301ab3f71cc651c458e878223c545cc
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:23:22 2020 -0500
+
+    new arvhico app.js
+
+commit 7f8834eb9c5f8efd438d597beabd6e5cab96ba80
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:21:30 2020 -0500
+
+    Lista de opciones a elegir
+
+commit c8471a3aa5d9dade3a887c7e3e7f3fb6fb8abdf7
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:17:45 2020 -0500
+
+    cambio de titulo y descripcion
+
+commit b8878d0792a821187336f027783ad4d9a8cfb51f
+Author: Jose Rivas <josht8716>
+Date:   Tue Jun 23 13:11:44 2020 -0500
+
+    Nuevo achivo html index

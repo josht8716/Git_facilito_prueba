@@ -1,0 +1,40 @@
+git config --global user.name "Jose"
+git config --global user.name
+git config --global user.email "josht_87@hotmail.com"
+git config --global user.email
+git config --global color.ui true
+git config --global --list
+git init #inicio del proyecto
+git status
+git add comandos #se agrega un archivo pendiente
+git add -A #agrega todo
+git commit -m "agregar archivo comandos"
+git log #para ver los commit
+git checkout #regresar a un punto atra como un rollback
+git checkout master #se regresa al ultimo commmit
+git reset --soft #no toca el codigo
+git reset --mixed #no borrar el stagin area ni working area
+git reset --hard # borra todos los commit, todo
+git log > commit.txt #guardar los comit en un archivo
+git help status|add 
+#
+git branch #para ver la ramaS
+git branch nueva_rama
+git checkout nueva_rama
+git branch -D nueva_rama #eliminar rama
+git checkout -b Test # se crea rama y se mueve a ella
+#
+git clone URL #clonar un repostiorio desde github
+git remote -v #para ver a que repositorio estoy conectado
+git remote remove origin #remover el actual repositorio
+git remote add origin git@github.com:ppreyer/first_app.git  #actualizar al nuevo repositorio
+git remote set-url origin git@github.com:ppreyer/first_app.git  #actualizar al nuevo repositorio sin remover
+
+
+
+
+
+
+
+
+
