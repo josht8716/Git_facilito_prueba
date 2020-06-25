@@ -40,7 +40,7 @@ git push origin --tags #para subir todos los tags
 #
 git fetch origin
 git merge origin/master
-
+#
 
 
 
