@@ -20,15 +20,27 @@ git help status|add
 #
 git branch #para ver la ramaS
 git branch nueva_rama
-git checkout nueva_rama
+git checkout nueva_rama  # se cambia a la nueva rama
 git branch -D nueva_rama #eliminar rama
 git checkout -b Test # se crea rama y se mueve a ella
+git merge Test # se merge la rama Test a master
 #
 git clone URL #clonar un repostiorio desde github
 git remote -v #para ver a que repositorio estoy conectado
 git remote remove origin #remover el actual repositorio
 git remote add origin git@github.com:ppreyer/first_app.git  #actualizar al nuevo repositorio
 git remote set-url origin git@github.com:ppreyer/first_app.git  #actualizar al nuevo repositorio sin remover
+git push origin master --force #cuando no funciona el git push
+git fetch origin master
+git push origin master
+#
+git tag -a v0.8 -m "version 0.8 de nuestro proyecto"
+git tag -a v0.1 -m "version 0.1 de nuestro proyecto" 15469e77a80089cc0ea81409ce386e8f731fef6b
+git push origin --tags #para subir todos los tags
+#
+git fetch origin
+git merge origin/master
+
 
 
 
